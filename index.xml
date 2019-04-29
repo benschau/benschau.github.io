@@ -6,10 +6,24 @@
     <description>Recent content on benschau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2019 15:41:37 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 16:28:20 -0400</lastBuildDate>
     
 	<atom:link href="https://benschau.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Quick Intro</title>
+      <link>https://benschau.github.io/posts/a-quick-intro/</link>
+      <pubDate>Mon, 29 Apr 2019 16:28:20 -0400</pubDate>
+      
+      <guid>https://benschau.github.io/posts/a-quick-intro/</guid>
+      <description>Hello, and welcome. My name is Benson (Ben for short, hard to get coffee otherwise). This is a site where I talk about stuff that I have interest in, which includes but isn&amp;rsquo;t limited to:
+ Video Games &amp;amp; the Industry
+ Disclaimer: I&amp;rsquo;m not of the industry, but I do read about it often.  Consoles (of the video game variety)
+ Computer Science
+ Programming
+ Computer Hardware</description>
+    </item>
     
     <item>
       <title>First Post</title>
@@ -18,7 +32,7 @@
       
       <guid>https://benschau.github.io/posts/first-post/</guid>
       <description>Migrating from Wordpress to Github pages via hugo. Feels pretty good thus far, and I wanted to dust off my old Github home page anyway.
-Introductory post coming soon, this is just a test
+Introductory post coming soon, this is just a test.
 Ben</description>
     </item>
     
