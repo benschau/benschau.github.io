@@ -3,18 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://benschau.github.io/about/</loc>
+    <lastmod>2019-04-29T17:27:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://benschau.github.io/</loc>
+    <lastmod>2019-04-29T17:27:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://benschau.github.io/posts/a-quick-intro/</loc>
     <lastmod>2019-04-29T16:28:20-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://benschau.github.io/posts/</loc>
-    <lastmod>2019-04-29T16:28:20-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://benschau.github.io/</loc>
     <lastmod>2019-04-29T16:28:20-04:00</lastmod>
     <priority>0</priority>
   </url>
