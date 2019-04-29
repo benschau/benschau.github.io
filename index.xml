@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>benschau</title>
+    <link>http://benschau.github.io/</link>
+    <description>Recent content on benschau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2019 15:41:37 -0400</lastBuildDate>
+    
+	<atom:link href="http://benschau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>http://benschau.github.io/posts/first-post/</link>
+      <pubDate>Mon, 29 Apr 2019 15:41:37 -0400</pubDate>
+      
+      <guid>http://benschau.github.io/posts/first-post/</guid>
+      <description>Migrating from Wordpress to Github pages via hugo. Feels pretty good thus far, and I wanted to dust off my old Github home page anyway.
+Introductory post coming soon, this is just a test
+Ben</description>
+    </item>
+    
+  </channel>
+</rss>
