@@ -6,10 +6,22 @@
     <description>Recent content in Posts on benschau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2019 16:28:20 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2019 16:46:52 -0400</lastBuildDate>
     
 	<atom:link href="https://benschau.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Vim Primer</title>
+      <link>https://benschau.github.io/posts/a-vim-primer/</link>
+      <pubDate>Tue, 30 Apr 2019 16:46:52 -0400</pubDate>
+      
+      <guid>https://benschau.github.io/posts/a-vim-primer/</guid>
+      <description>This one&amp;rsquo;s for my IDE friends that can&amp;rsquo;t exit Vim.
+What is Vim? Vim (Vi-iMproved) is a free and open-source text editor. That&amp;rsquo;s it, really!
+Why Vim? I&amp;rsquo;m glad you asked, here&amp;rsquo;s the short version:
+ Vim is extendable: Vim has a billion add-ons, everything from code completion to LateX previewers are available. You can contribute yourself if you want to write custom plugins, but the point here is that Vim has a massive amount of support, which will probably continue because &amp;hellip;</description>
+    </item>
     
     <item>
       <title>A Quick Intro</title>
