@@ -88,6 +88,63 @@
             
             <div class="posts">
                 
+                <h1 class="content-subhead">20 May 2019, 21:13</h1>
+                <section class="post">
+                    <header class="post-header">
+
+                        <a href="https://benschau.github.io/posts/chip8-overview/" class="post-title">The Quickest, Worst Chip8 Overview</a>
+
+                        <p class="post-meta">
+                            
+                            
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        
+
+<h1 id="who-is-this-for">Who is this for?</h1>
+
+<p>For people that want a quick overview of the basic stuff you need
+to know how to write a CHIP-8 interpreter.</p>
+
+<h1 id="what-is-chip-8">What is CHIP-8?</h1>
+
+<p>CHIP-8 is an interpreted programming language &amp; virtual machine made in the 70s.
+More importantly, it&rsquo;s a fun little thing to do if you&rsquo;re bored and want to
+do something related to the low-level side of computing.</p>
+
+<h1 id="the-chip-8-hardware-stuff">The CHIP-8 Hardware Stuff</h1>
+
+<p>The CHIP-8 is an 8-bit system that consists of a 4Kb memory, 16 registers, a stack,
+two timers, a hex keyboard (16 inputs) and a display of 64x32. More interestingly,
+it also supports sprites (think 2D bitmaps you can just draw on top of things in bulk) and
+has its own font set. The PC (program counter) register and I (address register) are separate
+from the register file.</p>
+
+<h1 id="chip-8-instruction-set">CHIP-8 Instruction Set</h1>
+
+<p>The CHIP-8 instruction set is made up of 35 ops, of which you can find listed on <a href="https://en.wikipedia.org/wiki/CHIP-8#Opcode_table">Wikipedia</a>. It&rsquo;s a handy reference when you&rsquo;re
+writing the instruction set opcode by opcode.</p>
+
+<p>Each opcode is made up on 2 bytes for a total of 16 bits in big-endian. This means that the
+higher order bits come first in the byte order- e.g if I read in 0x12 and 0x34 sequentially,
+the big-endian opcode is interpreted as 0x1234. In little endian, the lower order bits
+come first, so you should interpret it as 0x3412 instead. (NOTE: Endianness in bit order
+is a thing also.)</p>
+
+<p>A better overview - <a href="devernay.free.fr/hacks/chip8/C8TECH10.HTM">Cowgod&rsquo;s technical reference</a> is amazing as well. If you want to know more about emulation techniques (more often than
+not people just use an &lsquo;interpreter), see <a href="http://www.xsim.com/papers/Bario.2001.emubook.pdf">this</a>. It&rsquo;s very helpful for understanding what techniques are available, even though it&rsquo;s from way back in 2001.</p>
+
+<h1 id="chip-8-testing">CHIP-8 Testing</h1>
+
+<p>Google a ROM or two. I&rsquo;ve tried writing my own ROMs as well, created a crappy binary dump script that converts hexdecimal strings into binary counterparts so my rust_chip8 interpreter will run on them. Kinda sorta works, at least on the basic programs.</p>
+
+<p>Ben</p>
+
+                    </div>
+                </section>
+                
                 <h1 class="content-subhead">30 Apr 2019, 16:46</h1>
                 <section class="post">
                     <header class="post-header">

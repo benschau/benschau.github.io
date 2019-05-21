@@ -6,10 +6,21 @@
     <description>Recent content on benschau</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Apr 2019 16:46:52 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 21:13:04 -0400</lastBuildDate>
     
 	<atom:link href="https://benschau.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Quickest, Worst Chip8 Overview</title>
+      <link>https://benschau.github.io/posts/chip8-overview/</link>
+      <pubDate>Mon, 20 May 2019 21:13:04 -0400</pubDate>
+      
+      <guid>https://benschau.github.io/posts/chip8-overview/</guid>
+      <description>Who is this for? For people that want a quick overview of the basic stuff you need to know how to write a CHIP-8 interpreter.
+What is CHIP-8? CHIP-8 is an interpreted programming language &amp;amp; virtual machine made in the 70s. More importantly, it&amp;rsquo;s a fun little thing to do if you&amp;rsquo;re bored and want to do something related to the low-level side of computing.
+The CHIP-8 Hardware Stuff The CHIP-8 is an 8-bit system that consists of a 4Kb memory, 16 registers, a stack, two timers, a hex keyboard (16 inputs) and a display of 64x32.</description>
+    </item>
     
     <item>
       <title>A Vim Primer</title>
