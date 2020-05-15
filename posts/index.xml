@@ -1,59 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on benschau</title>
-    <link>https://benschau.github.io/posts/</link>
-    <description>Recent content in Posts on benschau</description>
+    <title>Posts on home</title>
+    <link>https://benschau.com/posts/</link>
+    <description>Recent content in Posts on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 May 2019 21:13:04 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 15:19:38 -0400</lastBuildDate>
     
-	<atom:link href="https://benschau.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://benschau.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>The Quickest, Worst Chip8 Overview</title>
-      <link>https://benschau.github.io/posts/chip8-overview/</link>
-      <pubDate>Mon, 20 May 2019 21:13:04 -0400</pubDate>
-      
-      <guid>https://benschau.github.io/posts/chip8-overview/</guid>
-      <description>Who is this for? For people that want a quick overview of the basic stuff you need to know how to write a CHIP-8 interpreter.
-What is CHIP-8? CHIP-8 is an interpreted programming language &amp;amp; virtual machine made in the 70s. More importantly, it&amp;rsquo;s a fun little thing to do if you&amp;rsquo;re bored and want to do something related to the low-level side of computing.
-The CHIP-8 Hardware Stuff The CHIP-8 is an 8-bit system that consists of a 4Kb memory, 16 registers, a stack, two timers, a hex keyboard (16 inputs) and a display of 64x32.</description>
-    </item>
     
     <item>
-      <title>A Vim Primer</title>
-      <link>https://benschau.github.io/posts/a-vim-primer/</link>
-      <pubDate>Tue, 30 Apr 2019 16:46:52 -0400</pubDate>
+      <title>The_non_first_post</title>
+      <link>https://benschau.com/posts/the_non_first_post/</link>
+      <pubDate>Fri, 15 May 2020 15:19:38 -0400</pubDate>
       
-      <guid>https://benschau.github.io/posts/a-vim-primer/</guid>
-      <description>This one&amp;rsquo;s for my IDE friends that can&amp;rsquo;t exit Vim.
-What is Vim? Vim (Vi-iMproved) is a free and open-source text editor. That&amp;rsquo;s it, really!
-Why Vim? I&amp;rsquo;m glad you asked, here&amp;rsquo;s the short version:
- Vim is extendable: Vim has a billion add-ons, everything from code completion to LateX previewers are available. You can contribute yourself if you want to write custom plugins, but the point here is that Vim has a massive amount of support, which will probably continue because &amp;hellip;</description>
-    </item>
-    
-    <item>
-      <title>A Quick Intro</title>
-      <link>https://benschau.github.io/posts/a-quick-intro/</link>
-      <pubDate>Mon, 29 Apr 2019 16:28:20 -0400</pubDate>
-      
-      <guid>https://benschau.github.io/posts/a-quick-intro/</guid>
-      <description>Hello, and welcome. My name is Benson (Ben for short, hard to get coffee otherwise). This is a site where I talk about stuff that I have interest in.
-Mostly though, you&amp;rsquo;ll see me write up posts about things I enjoy and don&amp;rsquo;t. Right now, here&amp;rsquo;s what I&amp;rsquo;m planning:
- A Quick Vim Introduction - per the title, an introduction to the most beloved text editor of all time. The goal is to get you up and running with Vim.</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://benschau.github.io/posts/first-post/</link>
-      <pubDate>Mon, 29 Apr 2019 15:41:37 -0400</pubDate>
-      
-      <guid>https://benschau.github.io/posts/first-post/</guid>
-      <description>Migrating from Wordpress to Github pages via hugo. Feels pretty good thus far, and I wanted to dust off my old Github home page anyway.
-Introductory post coming soon, this is just a test.
-Ben</description>
+      <guid>https://benschau.com/posts/the_non_first_post/</guid>
+      <description>This is a reboot of the blog that I had earlier at this domain; a couple years ago, I started getting pretty bogged down by college and stopped posting to keep focused. I&amp;rsquo;ve since graduated at this point, so I figured I would wipe my blog clean and do it over. So, this is that post. Switched up the theme as well, this is much more clean.
+Maybe at some point, I&amp;rsquo;ll even try to self-host this site instead of running it off Github and using a different domain name for it.</description>
     </item>
     
   </channel>
