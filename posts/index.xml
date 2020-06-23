@@ -6,10 +6,20 @@
     <description>Recent content in Posts on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 May 2020 19:34:08 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 16:33:32 -0400</lastBuildDate>
     
 	<atom:link href="https://benschau.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Homelab Beginnings</title>
+      <link>https://benschau.com/posts/homelab-beginnings/</link>
+      <pubDate>Tue, 16 Jun 2020 16:33:32 -0400</pubDate>
+      
+      <guid>https://benschau.com/posts/homelab-beginnings/</guid>
+      <description>Recently, after having graduated from college, I figured I wanted to spend some of the cash I saved up during college to finally kickstart a real homelab. A couple goals to keep in mind:
+ Wanted to be able to run more intensive programs, distributed stuff (MPI, RPC) on &amp;lsquo;separate&amp;rsquo; machines.  Virtual clusters for the distributed stuff, and compiling bigger projects would ease my pain for things like contributing to big open source projects (Linux kernel, Firefox, which I wanted to do but haven&amp;rsquo;t had the heart to try and get into).</description>
+    </item>
     
     <item>
       <title>Alan Wake Retrospective</title>
